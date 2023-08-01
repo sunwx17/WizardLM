@@ -1,0 +1,10 @@
+{"idx": 11, "Instruction": "Write a Python code to count 1 to 10."}
+{"idx": 12, "Instruction": "Write a Java code to sum 1 to 10."}
+{"idx": 13, "Instruction": "Write a Python code to generate random unitaries in Haar mearsure."}
+{"idx": 14, "Instruction": "Write a Python code to generate random unitaries in Haar mearsure and test it."}
+{"idx": 15, "Instruction": "Write a Python code to get the partial trace of a matrix."}
+{"idx": 16, "Instruction": "Write a Python code, which inputs a number between 1 and 365, output a day in 2023, in the format yyyy/mm/dd"}
+{"idx": 17, "Instruction": "Write a Python code to simulate quantum computing: we have a 3-qubit circuit, starting with the all-zero state. Then a Hadamard gate is operated on every qubit. Then a control-not gate is operated on the first and third qubit, where the first qubit is the target qubit. You should print the final state."}
+{"idx": 18, "Instruction": "We have n positive integers, whose sum is M. Write a python code to find a patition of those integers into 3 disjoint sets, such that the sum of each set is M/3. If impossible, output NO. The code should run in pseudopolynomial time."}
+{"idx": 19, "Instruction": "Write a Python code to generate random unitaries."}
+{"idx": 20, "Instruction": "Write a python code to implentment bubble sort."}
